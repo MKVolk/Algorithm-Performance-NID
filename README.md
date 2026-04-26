@@ -1,2 +1,4 @@
 # Algorithm-Performance-NID
-This is the implementation of a study on the performace of Network Intrusion Detection of two algorithms: Logistic Regression and Random Forest Network
+This is the implementation of a study on the performace of Network Intrusion Detection of two algorithms: 
+* Logistic Regression
+* Random Forest Network
