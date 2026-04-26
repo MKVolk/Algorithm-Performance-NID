@@ -9,3 +9,5 @@ https://drive.google.com/file/d/1Xs2SZVEZybjT0EOjXsNed0YAnbJUC0sZ/view?usp=shari
 
 ### Then you can run the following collab python notebook:
 https://colab.research.google.com/drive/1r-U56UEqXLyAyvRBbkFFf92FC30OU-2D?usp=sharing
+
+We recommend you make a copy of this collab into your Drive so you can execute all cells at the same time.
